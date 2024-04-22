@@ -1,0 +1,11 @@
+{
+	"BuildId": "9c7b35f9-9ad3-4fc6-a29b-94101a6f8449",
+	"Modules": 
+	{
+		"BinariesPatchFeature": "UnrealEditor-BinariesPatchFeature.dll",
+		"CmdHandler": "UnrealEditor-CmdHandler.dll",
+		"HotPatcherCore": "UnrealEditor-HotPatcherCore.dll",
+		"HotPatcherEditor": "UnrealEditor-HotPatcherEditor.dll",
+		"HotPatcherRuntime": "UnrealEditor-HotPatcherRuntime.dll"
+	}
+}
