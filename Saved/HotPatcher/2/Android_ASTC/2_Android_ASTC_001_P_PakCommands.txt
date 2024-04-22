@@ -1,0 +1,5 @@
+"C:/Users/HQ/Downloads/HotPatcher_V82_Bug_Recurrent/Saved/HotPatcher/Cooked/Android_ASTC/Engine/Content/BasicShapes/Sphere.uasset" "../../../Engine/Content/BasicShapes/Sphere.uasset" -compress
+"C:/Users/HQ/Downloads/HotPatcher_V82_Bug_Recurrent/Saved/HotPatcher/Cooked/Android_ASTC/Engine/Content/BasicShapes/Sphere.ubulk" "../../../Engine/Content/BasicShapes/Sphere.ubulk" -compress
+"C:/Users/HQ/Downloads/HotPatcher_V82_Bug_Recurrent/Saved/HotPatcher/Cooked/Android_ASTC/Engine/Content/BasicShapes/Sphere.uexp" "../../../Engine/Content/BasicShapes/Sphere.uexp" -compress
+"C:/Users/HQ/Downloads/HotPatcher_V82_Bug_Recurrent/Saved/HotPatcher/Cooked/Android_ASTC/BugRecurrent/Content/TestActor.uasset" "../../../BugRecurrent/Content/TestActor.uasset" -compress
+"C:/Users/HQ/Downloads/HotPatcher_V82_Bug_Recurrent/Saved/HotPatcher/Cooked/Android_ASTC/BugRecurrent/Content/TestActor.uexp" "../../../BugRecurrent/Content/TestActor.uexp" -compress

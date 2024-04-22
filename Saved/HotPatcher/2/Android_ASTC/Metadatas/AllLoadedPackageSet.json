@@ -1,0 +1,10 @@
+{
+	"packagePaths": [
+		"/Engine/BasicShapes/Sphere",
+		"/Engine/EngineMaterials/DefaultMaterial",
+		"/Game/TestActor",
+		"/Engine/BasicShapes/BasicShapeMaterial",
+		"/Engine/BasicShapes/Cube",
+		"/Script/AndroidDeviceProfileSelector"
+	]
+}

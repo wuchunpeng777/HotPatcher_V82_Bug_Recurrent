@@ -1,0 +1,7 @@
+{
+	"packagePaths": [
+		"/Engine/EngineMaterials/DefaultMaterial",
+		"/Engine/BasicShapes/BasicShapeMaterial",
+		"/Engine/BasicShapes/Cube"
+	]
+}

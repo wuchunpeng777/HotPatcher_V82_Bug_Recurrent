@@ -1,0 +1,59 @@
+{
+	"assetDiffInfo":
+	{
+		"addAssetDependInfo":
+		{
+			"assetsDependenciesMap":
+			{
+				"Engine":
+				{
+					"moduleCategory": "Engine",
+					"assetDependencyDetails":
+					{
+						"/Engine/BasicShapes/Sphere":
+						{
+							"packagePath": "/Engine/BasicShapes/Sphere.Sphere",
+							"assetType": "StaticMesh",
+							"guid": "c85e531cbf3634858e82293d93c704af"
+						}
+					}
+				}
+			}
+		},
+		"modifyAssetDependInfo":
+		{
+			"assetsDependenciesMap":
+			{
+				"Game":
+				{
+					"moduleCategory": "Game",
+					"assetDependencyDetails":
+					{
+						"/Game/TestActor":
+						{
+							"packagePath": "/Game/TestActor.TestActor",
+							"assetType": "Blueprint",
+							"guid": "bd460ce16d3a47777b963eecd64361bd"
+						}
+					}
+				}
+			}
+		},
+		"deleteAssetDependInfo":
+		{
+			"assetsDependenciesMap":
+			{
+			}
+		}
+	},
+	"platformExternDiffInfo":
+	{
+		"android_ASTC":
+		{
+			"platform": "Android_ASTC",
+			"addExternalFiles": [],
+			"modifyExternalFiles": [],
+			"deleteExternalFiles": []
+		}
+	}
+}
