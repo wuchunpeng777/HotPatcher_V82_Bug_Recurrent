@@ -1,0 +1,202 @@
+{
+	"versionId": "1",
+	"baseVersionId": "",
+	"date": "2024.04.22-09.34.02",
+	"assetInfo":
+	{
+		"assetsDependenciesMap":
+		{
+			"Game":
+			{
+				"moduleCategory": "Game",
+				"assetDependencyDetails":
+				{
+					"/Game/TestActor":
+					{
+						"packagePath": "/Game/TestActor.TestActor",
+						"assetType": "Blueprint",
+						"guid": "c23d127a8c74c51555ce1f87a3d77fcd"
+					},
+					"/Game/NewMap":
+					{
+						"packagePath": "/Game/NewMap.NewMap",
+						"assetType": "World",
+						"guid": "73cade2f16ac384a22a243c87e93c96a"
+					}
+				}
+			},
+			"Engine":
+			{
+				"moduleCategory": "Engine",
+				"assetDependencyDetails":
+				{
+					"/Engine/BasicShapes/Cube":
+					{
+						"packagePath": "/Engine/BasicShapes/Cube.Cube",
+						"assetType": "StaticMesh",
+						"guid": "9c8762835dfccf24dc648976b72276ab"
+					},
+					"/Engine/BasicShapes/BasicShapeMaterial":
+					{
+						"packagePath": "/Engine/BasicShapes/BasicShapeMaterial.BasicShapeMaterial",
+						"assetType": "Material",
+						"guid": "0637c4bf0e548450e8e1c09d545876f7"
+					},
+					"/Engine/EngineMaterials/WorldGridMaterial":
+					{
+						"packagePath": "/Engine/EngineMaterials/WorldGridMaterial.WorldGridMaterial",
+						"assetType": "Material",
+						"guid": "832141bd2ef1e22123a899ab04a317ed"
+					},
+					"/Engine/EngineMaterials/T_Default_Material_Grid_M":
+					{
+						"packagePath": "/Engine/EngineMaterials/T_Default_Material_Grid_M.T_Default_Material_Grid_M",
+						"assetType": "Texture2D",
+						"guid": "ca8e8e163795f3120bb5f0c5510e9167"
+					},
+					"/Engine/EngineMaterials/T_Default_Material_Grid_N":
+					{
+						"packagePath": "/Engine/EngineMaterials/T_Default_Material_Grid_N.T_Default_Material_Grid_N",
+						"assetType": "Texture2D",
+						"guid": "c83486616652f4b39db7ccfbfcbe6bbe"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade",
+						"assetType": "MaterialFunction",
+						"guid": "6b34c25e03ad540de20476a99a9b7dcd"
+					},
+					"/Engine/EditorResources/LightIcons/S_LightError":
+					{
+						"packagePath": "/Engine/EditorResources/LightIcons/S_LightError.S_LightError",
+						"assetType": "Texture2D",
+						"guid": "b78e665c337ce89e933b12984c390979"
+					},
+					"/Engine/EngineSky/M_SimpleSkyDome":
+					{
+						"packagePath": "/Engine/EngineSky/M_SimpleSkyDome.M_SimpleSkyDome",
+						"assetType": "Material",
+						"guid": "87dc761ec81fc023d2f057a6510788e7"
+					},
+					"/Engine/EngineSky/SM_SkySphere":
+					{
+						"packagePath": "/Engine/EngineSky/SM_SkySphere.SM_SkySphere",
+						"assetType": "StaticMesh",
+						"guid": "ea72a61a0af9c29aa5abb4d7313681c5"
+					},
+					"/Engine/MapTemplates/SM_Template_Map_Floor":
+					{
+						"packagePath": "/Engine/MapTemplates/SM_Template_Map_Floor.SM_Template_Map_Floor",
+						"assetType": "StaticMesh",
+						"guid": "9b1dbe1717fa7103b547616a76e665f8"
+					},
+					"/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid":
+					{
+						"packagePath": "/Engine/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.MI_ProcGrid",
+						"assetType": "MaterialInstanceConstant",
+						"guid": "4b51e780237a3ca78fc4c4c7638e7e62"
+					},
+					"/Engine/EngineSky/T_Sky_Stars":
+					{
+						"packagePath": "/Engine/EngineSky/T_Sky_Stars.T_Sky_Stars",
+						"assetType": "Texture2D",
+						"guid": "30086ce9523ed0aa51dd370e24ae129a"
+					},
+					"/Engine/EngineSky/T_Sky_Clouds_M":
+					{
+						"packagePath": "/Engine/EngineSky/T_Sky_Clouds_M.T_Sky_Clouds_M",
+						"assetType": "Texture2D",
+						"guid": "6def9a179834c9fa1ec8f7c837552f6b"
+					},
+					"/Engine/EngineSky/T_Sky_Blue":
+					{
+						"packagePath": "/Engine/EngineSky/T_Sky_Blue.T_Sky_Blue",
+						"assetType": "Texture2D",
+						"guid": "06393f94e578354269355b1cc53fcf7c"
+					},
+					"/Engine/EngineSky/M_Sky_Panning_Clouds2":
+					{
+						"packagePath": "/Engine/EngineSky/M_Sky_Panning_Clouds2.M_Sky_Panning_Clouds2",
+						"assetType": "Material",
+						"guid": "0e4501ee4bb7c3fa088a5772887e4651"
+					},
+					"/Engine/EngineMaterials/DefaultMaterial":
+					{
+						"packagePath": "/Engine/EngineMaterials/DefaultMaterial.DefaultMaterial",
+						"assetType": "Material",
+						"guid": "f6b01880689e525a2e4a94d68babc012"
+					},
+					"/Engine/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid":
+					{
+						"packagePath": "/Engine/OpenWorldTemplate/LandscapeMaterial/MF_ProcGrid.MF_ProcGrid",
+						"assetType": "MaterialFunction",
+						"guid": "a23706d5ffe75329d9cbdb8891f051a1"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient",
+						"assetType": "MaterialFunction",
+						"guid": "92fe83fe23159a266bdee525f8834c04"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.CheapContrast",
+						"assetType": "MaterialFunction",
+						"guid": "c1c59699973fe9054d4b8dd84596fccf"
+					},
+					"/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid":
+					{
+						"packagePath": "/Engine/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.M_ProcGrid",
+						"assetType": "Material",
+						"guid": "f867282707c04ff043be372950f53572"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.BreakOutFloat3Components",
+						"assetType": "MaterialFunction",
+						"guid": "f752f08af76d6939056e9755a45c818f"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.MakeFloat3",
+						"assetType": "MaterialFunction",
+						"guid": "e8ac7a17419731d7f5a55989b5ae7c03"
+					},
+					"/Engine/EngineMaterials/BlendFunc_DefBlend":
+					{
+						"packagePath": "/Engine/EngineMaterials/BlendFunc_DefBlend.BlendFunc_DefBlend",
+						"assetType": "Texture2D",
+						"guid": "76eadc43b3a6229de8d727b8840b174a"
+					},
+					"/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A":
+					{
+						"packagePath": "/Engine/OpenWorldTemplate/LandscapeMaterial/T_GridChecker_A.T_GridChecker_A",
+						"assetType": "Texture2D",
+						"guid": "7715093c825e46d340422bacdf0591d2"
+					},
+					"/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay":
+					{
+						"packagePath": "/Engine/Functions/Engine_MaterialFunctions03/Blends/Blend_Overlay.Blend_Overlay",
+						"assetType": "MaterialFunction",
+						"guid": "f60d2fcee3ad2fa4a7af6f34a8d466b8"
+					},
+					"/Engine/EngineMaterials/BlendFunc_DefBase":
+					{
+						"packagePath": "/Engine/EngineMaterials/BlendFunc_DefBase.BlendFunc_DefBase",
+						"assetType": "Texture2D",
+						"guid": "82e1305ef91caa33d5e3ff81d0510b70"
+					}
+				}
+			}
+		}
+	},
+	"platformAssets":
+	{
+		"android_ASTC":
+		{
+			"targetPlatform": "Android_ASTC",
+			"addExternFileToPak": [],
+			"addExternDirectoryToPak": []
+		}
+	}
+}
